@@ -7,7 +7,14 @@ engines. Open to freelance work in Turkish or English.
 
 ## Games
 
-This is the main thing. Two of them aren't public yet.
+This is the main thing. One is on Steam; two aren't public yet.
+
+**[False Signal](https://store.steampowered.com/app/5353340/False_Signal/)** —
+First-person horror, released on Steam as Veilward Studios. One of five crew
+members no longer matches their records: you take air samples, read duty cards
+and radio logs, and call corridors against a clean reference. Every wrong call
+costs a crew member. English and Turkish, text and voice, full controller
+support.
 
 **Anomaly Corridor** — Horror game in Unreal, C++. Levels and art are built by
 a generation pipeline rather than placed by hand, so the layout differs per
