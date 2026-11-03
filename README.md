@@ -1,5 +1,4 @@
-<!-- Add your name to the heading below, and your contact details at the bottom. -->
-# Hi there
+# Emre Cihangir
 
 I build small, sharp tools: Python CLIs and APIs, and vanilla-JS libraries and
 web apps. Available for freelance work — Turkish and English.
@@ -83,9 +82,7 @@ Git · GitHub Actions
 
 ## Get in touch
 
-Open an issue on any repo.
+- Bionluk (freelance, TR): https://bionluk.com/emre_cihangir
+- Or open an issue on any repo.
 
-<!-- Add the rest when you're ready, e.g.:
-Email: you@example.com · Upwork: … · LinkedIn: … · Bionluk: …
--->
-
+<!-- Add e-mail / LinkedIn / Upwork here when you want them public. -->
