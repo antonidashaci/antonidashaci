@@ -1,4 +1,3 @@
-<!-- Replace the heading with your real name — clients hire a person, not a handle. -->
 # antonidashaci
 
 I make games, and I build backend and tooling to pay for making games.
@@ -126,5 +125,5 @@ languages that aren't English. All of it runs in CI.
 
 ## Contact
 
-<!-- Put your email and profile links here. -->
-Open an issue on any repo.
+[contact@veilwardstudios.com](mailto:contact@veilwardstudios.com), or open an
+issue on any repo.
