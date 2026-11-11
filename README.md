@@ -104,6 +104,11 @@ No build step, no server, nothing leaves the browser. Click a demo and use it.
 
 ## Other things I've built
 
+**[freelance-command-center](https://github.com/antonidashaci/freelance-command-center)** —
+Frameless Electron and Three.js desktop command center tracking multi-platform
+proposals, remote job radars, and live automation sweeps with a self-contained
+demo mode and automated tests.
+
 **[fintechhub](https://github.com/antonidashaci/fintechhub)** — Comparison site
 for Turkish banks and fintech products. Multi-page, blog, provider pages.
 
